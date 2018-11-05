@@ -13,8 +13,8 @@ public class prime
 			c++;
 		}
 		if(c==2)
-			System.out.println(i+" is a prime number!");
+			System.out.println(n+" is a prime number!");
 		else
-			System.out.println(i+" is not a prime number!");
+			System.out.println(n+" is not a prime number!");
 	}
 }

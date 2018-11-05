@@ -1,0 +1,11 @@
+Comparator Interface
+Sorted collections have two ways to sort elements in itself.
+1. Comparable Interface
+2. Comparator Interface
+Comparator inteface has only one method compare(object ob1,object ob2) which works in the same way as 
+compareTo() method.
+Why do we need Comparator?
+We can think of the comparator as a sorting criteria. eg: In case of students, sorting criteria can be name or roll_no.
+When we used Comparable, then we were either able to sort using name or roll_no at one time. Now we will create
+Comparator: NameComp and RollComp.
+(Comparator tell TreeSet[Sorted Collection] on which basis the elements of TreeSet are to be sorted.)
