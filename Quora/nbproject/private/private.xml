@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/src/java/QuestionServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/web/form-answer.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/web/question-detail.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/src/java/LoginServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/web/form-signup.html</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/src/java/SignupServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/web/form-question.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/web/avatar.png</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/src/java/AnswerServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/web/downvote-grey.png</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/web/index.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Quora/web/dashboard.jsp</file>
+        </group>
+    </open-files>
+</project-private>
